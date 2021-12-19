@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/arcore_client" />
+            <option value="$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/gvr_common" />
+            <option value="$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/react_viro" />
+            <option value="$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/viro_renderer" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-localization/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-reanimated/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-screens/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-svg/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-youtube/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

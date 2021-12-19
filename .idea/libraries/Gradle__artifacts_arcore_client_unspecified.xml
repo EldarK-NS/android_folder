@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:arcore_client:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/2675d55df5145fcb3f6db3ae720930e0/transformed/jetified-core-1.26.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/2675d55df5145fcb3f6db3ae720930e0/transformed/jetified-core-1.26.0/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/2675d55df5145fcb3f6db3ae720930e0/transformed/jetified-core-1.26.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

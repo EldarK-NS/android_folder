@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:gvr_common:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/08d7176ff954ec45c280e92735ecabc1/transformed/jetified-sdk-common-1.180.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/08d7176ff954ec45c280e92735ecabc1/transformed/jetified-sdk-common-1.180.0/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/08d7176ff954ec45c280e92735ecabc1/transformed/jetified-sdk-common-1.180.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

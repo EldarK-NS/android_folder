@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactNativeTS.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactNativeTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ReactNativeTS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ReactNativeTS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-30818937/ReactNativeTS.arcore_client.iml" filepath="$PROJECT_DIR$/.idea/modules/-30818937/ReactNativeTS.arcore_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1239646854/ReactNativeTS.gvr_common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1239646854/ReactNativeTS.gvr_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-395501278/ReactNativeTS.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-395501278/ReactNativeTS.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/612474169/ReactNativeTS.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/612474169/ReactNativeTS.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232425291/ReactNativeTS.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1232425291/ReactNativeTS.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/674582726/ReactNativeTS.react-native-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/674582726/ReactNativeTS.react-native-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-698228413/ReactNativeTS.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-698228413/ReactNativeTS.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/828525410/ReactNativeTS.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/828525410/ReactNativeTS.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/432020986/ReactNativeTS.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/432020986/ReactNativeTS.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-177314985/ReactNativeTS.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-177314985/ReactNativeTS.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-917004394/ReactNativeTS.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/-917004394/ReactNativeTS.react-native-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1719853091/ReactNativeTS.react_viro.iml" filepath="$PROJECT_DIR$/.idea/modules/1719853091/ReactNativeTS.react_viro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1742451233/ReactNativeTS.viro_renderer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1742451233/ReactNativeTS.viro_renderer.iml" />
+    </modules>
+  </component>
+</project>

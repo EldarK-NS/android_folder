@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:viro_renderer:unspecified">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/viro_renderer/build/.transforms/5eadc58e8ec1297e4f9e91b84a2763b7/transformed/jetified-viro_renderer-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/viro_renderer/build/.transforms/5eadc58e8ec1297e4f9e91b84a2763b7/transformed/jetified-viro_renderer-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/viro_renderer/build/.transforms/5eadc58e8ec1297e4f9e91b84a2763b7/transformed/jetified-viro_renderer-release/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/@viro-community/react-viro/android/viro_renderer/build/.transforms/5eadc58e8ec1297e4f9e91b84a2763b7/transformed/jetified-viro_renderer-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
